@@ -97,3 +97,4 @@ export function stellarToStroops(amount: string | number): bigint {
   const paddedFrac = fracStr.padEnd(7, '0').slice(0, 7);
   return BigInt(intStr || '0') * BigInt(10_000_000) + BigInt(paddedFrac);
 }
+

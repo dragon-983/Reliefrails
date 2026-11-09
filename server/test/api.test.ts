@@ -116,3 +116,4 @@ describe('RELIEFRAIL Backend API Test Suite', () => {
     expect(Number(res.body.voucher.remaining_amount)).toBe(startBalance - redeemAmount);
   });
 });
+

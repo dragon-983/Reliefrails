@@ -52,3 +52,4 @@ notificationsRouter.post('/read-all', requireAuth, async (req: Request, res: Res
     res.status(500).json({ error: 'Failed to update notifications' });
   }
 });
+

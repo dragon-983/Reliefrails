@@ -43,3 +43,4 @@ $$Commitment = \text{SHA256}(Identifier_{\text{raw}} \parallel Salt_{\text{local
 - **UNHCR Policy on the Protection of Personal Data of Persons of Concern (2015)**: Complies with Chapter 2 (Purpose Specification and Minimization) and Chapter 3 (Confidentiality and Security).
 - **European General Data Protection Regulation (GDPR)**: Satisfies "Right to be Forgotten" (Article 17) and Data Minimization (Article 5(1)(c)) because no immutable personal data is published to the blockchain.
 - **ICRC Professional Standards for Protection Work**: Ensures neutrality and prevents humanitarian databases from being converted into surveillance vectors.
+

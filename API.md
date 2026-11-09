@@ -196,3 +196,4 @@ Returns mathematical financial reconciliation verifying exact balance match:
 
 ### `GET /api/audits/trail`
 Public immutable audit trail of all transactions and system events.
+

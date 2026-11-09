@@ -64,3 +64,4 @@ CREATE POLICY beneficiaries_policy ON beneficiaries FOR ALL USING (
 - **Client-Side Signing**: Secret keys never leave the user's browser or device. All transaction signing is performed through the Freighter wallet extension or hardware wallets.
 - **No Stored Keys**: The RELIEFRAIL server does not hold donor, NGO, or merchant private keys.
 - **Ephemeral Sandbox Keys**: In development / demonstration mode, predefined deterministic test addresses are used solely on Stellar Testnet.
+

@@ -26,3 +26,4 @@ describe('RELIEFRAIL Client Utility & Formatting Suite', () => {
     expect(formatAmount('not_a_number')).toBe('0.00');
   });
 });
+

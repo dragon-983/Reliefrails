@@ -116,3 +116,4 @@ In active catastrophe regions (earthquakes, cyclones, armed conflicts), cell net
 - **Local Cargo Isolation**: Local `.cargo/config.toml` targets `x86_64-unknown-linux-gnu` with empty flags, isolating the workspace from conflicting global WASM NEAR flags.
 - **PostgreSQL Row-Level Security**: Beneficiary privacy rows are visible strictly to the registering NGO organization via `current_wallet()` session context. Public users and external auditors can only query aggregated metrics and anonymized commitments.
 - **Contract Nonce Deduplication**: Each Soroban voucher entry uses unique identifiers; redemptions cannot be double-spent or submitted twice.
+

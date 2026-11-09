@@ -167,3 +167,4 @@ CREATE INDEX IF NOT EXISTS idx_redemptions_merchant ON redemptions(merchant_id);
 CREATE INDEX IF NOT EXISTS idx_redemptions_voucher ON redemptions(voucher_id);
 CREATE INDEX IF NOT EXISTS idx_donations_donor ON donations(donor_wallet);
 CREATE INDEX IF NOT EXISTS idx_audit_campaign ON audit_events(campaign_id);
+

@@ -146,3 +146,4 @@ The Soroban test suite (`src/test.rs`) runs in an isolated Soroban environment w
 8. `test_reclaim_expired_voucher`
 
 All 8 tests pass deterministically via `cargo test`.
+

@@ -33,3 +33,4 @@ export const config = {
   sessionTtlHours: 24,
   qrCredentialTtlMinutes: 15,
 };
+

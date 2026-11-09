@@ -100,3 +100,4 @@ VALUES
 ('GAMERCHANT11111111111111111111111111111111111111111111111', 'Instant Settlement Successful', '180.00 USDC settlement received from Soroban contract into your merchant wallet.', 'success', false, '/merchant');
 
 COMMIT;
+

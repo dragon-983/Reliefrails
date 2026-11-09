@@ -709,3 +709,4 @@ impl ReliefRailContract {
 
 #[cfg(test)]
 mod test;
+

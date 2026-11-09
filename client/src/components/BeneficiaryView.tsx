@@ -243,3 +243,4 @@ export const BeneficiaryView: React.FC<BeneficiaryViewProps> = ({ session, onOpe
     </div>
   );
 };
+

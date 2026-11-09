@@ -363,3 +363,4 @@ export const DonorView: React.FC<DonorViewProps> = ({ session, onOpenWalletModal
     </div>
   );
 };
+

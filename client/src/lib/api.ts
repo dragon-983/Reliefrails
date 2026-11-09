@@ -306,3 +306,4 @@ export async function getNotifications() {
 export async function markNotificationRead(id: number) {
   return request<{ success: boolean }>(`/api/notifications/${id}/read`, { method: 'POST' });
 }
+

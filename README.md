@@ -1,6 +1,6 @@
 # 🚂 RELIEFRAIL — Programmable Humanitarian Aid Infrastructure on Stellar
 
-> **Cryptographically Enforced, Zero-Leakage Disaster Relief Settlement powered by Soroban Smart Contracts and Native USDC on Stellar.**
+> **Cryptographically Enforced, Zero-Leakage Disaster Relief Settlement powerewd by Soroban Smart Contracts and Native USDC on Stellar.**
 
 [![Soroban Contract Tests](https://img.shields.io/badge/Soroban%20Contract-8%20Passed-emerald.svg)](./contracts/soroban)
 [![Backend Integration Tests](https://img.shields.io/badge/API%20Tests-8%20Passed-cyan.svg)](./server)
@@ -170,3 +170,4 @@ RELIEFRAIL/
 
 ## ⚖️ License
 MIT License. Built for the Stellar Community and Humanitarian Relief Organizations Worldwide.
+

@@ -49,3 +49,4 @@ pub fn emit_voucher_reclaimed(env: &Env, voucher_id: u64, reclaimed_amount: i128
     let topics = (symbol_short!("vch_recl"), voucher_id);
     env.events().publish(topics, reclaimed_amount);
 }
+

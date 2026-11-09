@@ -93,3 +93,4 @@ Follow this step-by-step evaluation guide to test all 5 personas and verify the 
 4. **Immutable Audit Trail Feed**:
    - Filter events by `donation`, `allocation`, `voucher_issuance`, and `redemption`.
    - Click on transaction hashes to inspect on Stellar Testnet explorer.
+

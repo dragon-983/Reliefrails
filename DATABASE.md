@@ -123,3 +123,4 @@ CREATE INDEX idx_redemptions_voucher ON redemptions(voucher_id);
 CREATE INDEX idx_donations_donor ON donations(donor_wallet);
 CREATE INDEX idx_audit_campaign ON audit_events(campaign_id);
 ```
+

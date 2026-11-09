@@ -384,3 +384,4 @@ export const MerchantTerminalView: React.FC<MerchantTerminalViewProps> = ({ sess
     </div>
   );
 };
+

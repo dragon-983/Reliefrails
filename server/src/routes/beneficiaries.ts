@@ -149,3 +149,4 @@ beneficiariesRouter.get('/me/vouchers', requireAuth, async (req: Request, res: R
     res.status(500).json({ error: 'Failed to fetch vouchers' });
   }
 });
+
