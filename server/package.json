@@ -4,10 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "tsx watch src/index.ts",
-    "build": "tsc",
-    "start": "node dist/index.js",
-    "test": "vitest run"
+    "build": "node init && npm run build -w server && npm run build -w client",
+    "start": "node init && npm start -w server"
   },
   "dependencies": {
     "@stellar/stellar-sdk": "^13.1.0",
@@ -29,4 +27,3 @@
     "vitest": "^2.1.8"
   }
 }
-

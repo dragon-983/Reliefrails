@@ -7,8 +7,6 @@ dist/
 build/
 
 # Environment files
-.env
-.env.local
 
 # Logs
 *.log
@@ -18,3 +16,4 @@ npm-debug.log*
 .DS_Store
 Thumbs.db
 
+config.bat
