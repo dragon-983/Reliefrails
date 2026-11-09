@@ -4,8 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vite --port 5176",
-    "build": "tsc && vite build",
+    "dev": "node init && vite --port 5176",
+    "build": "node init && tsc && vite build",
     "preview": "vite preview --port 5176",
     "test": "vitest run"
   },
@@ -30,4 +30,3 @@
     "vitest": "^2.1.8"
   }
 }
-
